@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="app.png">icons/app.png</file>
+        <file alias="comp.png">icons/comp.png</file>
+        <file alias="cube.png">icons/cube.png</file>
+        <file alias="drop.png">icons/drop.png</file>
+        <file alias="planet-earth.png">icons/planet-earth.png</file>
+    </qresource>
+    <qresource prefix="/shaders">
+        <file alias="fragmentshader.fs">shaders/fragmentshader.fs</file>
+        <file alias="lightfragmentshader.fs">shaders/lightfragmentshader.fs</file>
+        <file alias="lightvertexshader.vs">shaders/lightvertexshader.vs</file>
+        <file alias="vertexshader.vs">shaders/vertexshader.vs</file>
+        <file alias="lightshader.vert">shaders/lightshader.vert</file>
+        <file alias="lightshader.frag">shaders/lightshader.frag</file>
+    </qresource>
+</RCC>
